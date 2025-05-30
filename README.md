@@ -7,4 +7,5 @@ ________________________________________________________________________________
 - Java | Python | SQL :atom:
 
 ________________________________________________________________________________
-*I only work for authorized and ethical purposes, never for personal or commercial gain.* †
+*I only work for authorized and ethical purposes, never for personal or commercial gain.* ✝
+
