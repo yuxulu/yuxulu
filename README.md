@@ -1,4 +1,4 @@
-# Willkommen auf meinem GHub :white_flag:                        ![](https://komarev.com/ghpvc/?username=yuxulu)
+# Willkommen auf meinem GitHub :white_flag:                        ![](https://komarev.com/ghpvc/?username=yuxulu)
 ________________________________________________________________________________
 
 - I specialize in **threat intelligence**, **OSINT**, and **GEOINT** :mag:
