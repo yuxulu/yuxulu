@@ -2,7 +2,7 @@
 ________________________________________________________________________________
 
 - I specialize in **threat intelligence** and **OSINT** :mag:
-- Currently learning **reverse engineering**, **malware analysis**, and **forensics** :open_book:
+- Currently learning **forensics**, **reverse engineering**, and **malware analysis**:open_book:
 - Competing with team **SE4L** :switzerland:
 - Java | Python | SQL :atom:
 
